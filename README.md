@@ -1,2 +1,4 @@
 # gitpod_playground
-an public repo to be able getting familiar with gitpod
+public repo to be able getting familiar with gitpod
+
+don't expect anything fancy to happen over here.. ;)
